@@ -6,3 +6,5 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Envionment variables
+.env.local
