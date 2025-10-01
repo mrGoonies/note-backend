@@ -7,3 +7,10 @@ Educational project for learning backend development with FastAPI and Firestore.
 The application follows this main architecture:
 
 ![Architecture](architecture.png)
+
+### How to use makefile
+
+The makefile is used to simplify common tasks. Here are some of the available commands:
+
+- `make setup`: Create and activate a virtual environment and install dependencies.
+- `make run-local`: Run the FastAPI application with Uvicorn.
