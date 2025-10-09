@@ -8,3 +8,5 @@ __pycache__/
 
 # Envionment variables
 .env.local
+
+.idea/
